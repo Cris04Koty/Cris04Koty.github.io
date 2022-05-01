@@ -1,0 +1,40 @@
+/*El diseño se desarrolla al final ctmr no seas webon
+ya que vamos a darle por el momento de como nos movemos
+con el level manejo de la pagina de una u otra manera*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    color: white;
+    background-color: black;
+}
+.titulo{
+    background-color: blueviolet;
+}
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+}
+.txtTitulo{
+    margin: 0%;
+    padding: 0%;
+    font-size: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.imagen{
+    height: 100px;
+    width: 100px;
+}
+.cuerpo{
+    margin: 20px;
+    width: 65%;
+    float: left;
+}
+.linkpdf{
+    float:30px;
+    
+}
